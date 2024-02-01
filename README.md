@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/ozee31/cakephp-cors.svg?branch=master)](https://travis-ci.org/ozee31/cakephp-cors)
 
 A CakePHP (4+) plugin for activate cors domain in your application with [Middleware](http://book.cakephp.org/3.0/en/controllers/middleware.html).
+This plugin has been updated with the latest PR, ready for grabs.
 
 [Learn more about CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 
